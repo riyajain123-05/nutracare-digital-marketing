@@ -135,3 +135,60 @@ Post Graduate Diploma in Management (PGDM)
 Specialization: Marketing 
 Fortune Institute of International Business (FIIB)  
 Academic Year: 2025–27**
+
+---
+
+## 📚 Project Phases
+
+This capstone project was developed across four phases, covering the complete digital marketing journey of NutraCare.
+
+### Phase 1 — Business Understanding & Market Analysis
+
+Business concept, industry overview, problem statement, target market, customer segmentation, value delivery model, revenue model and competitive analysis.
+
+📄 [View Phase 1 — Business Understanding & Market Analysis](./Learning%20team%206%20Capstone%20phase%201.pdf)
+
+### Phase 2 — Digital Strategy & Asset Design
+
+Website objective, customer journey, TOFU–MOFU–BOFU funnel, content strategy, website architecture, UX strategy and AI integration.
+
+📄 [View Phase 2 — Digital Strategy & Asset Design](./25pgdm040-Learning%20Team%206-capstone%202..pdf)
+
+### Phase 3 — Organic & Paid Media Strategy
+
+Organic media strategy, Meta Ads, Google Ads, campaign architecture, audience targeting, keyword strategy and performance planning.
+
+📄 [View Phase 3 — Organic & Paid Media Strategy](./Learning%20Team-6%20capstone%20Phase%20-3_Nutracare.pptx_20260325_184435_0000%20(1).pdf)
+
+### Phase 4 — CRM, Automation & Conversational Commerce
+
+Freshsales CRM implementation, lead pipeline management, customer segmentation, email marketing, automation and conversational commerce.
+
+📄 [View Phase 4 — CRM, Automation & Conversational Commerce](./Team-6,-DM-Cpastone%20Phase%204.pdf)
+
+---
+
+## 📄 Final Capstone Report
+
+The complete Digital Marketing Capstone Report consolidates all four phases of the NutraCare project into one comprehensive report.
+
+📄 [View Final Capstone Report](./LEARNING%20TEAM-6_DIGITAL%20MARKETING%20FINAL%20CAPSTONE%20REPORT.pdf)
+
+---
+
+## 🎯 Skills Demonstrated
+
+Digital Marketing | SEO | Social Media Marketing | Paid Advertising | CRM | Customer Segmentation | Email Marketing | Marketing Automation | Conversational Commerce | Customer Journey Mapping | Marketing Funnel Strategy
+
+---
+
+## 👥 Project Team
+
+- Nitesh Kumar Chourasia
+- Riya Jain
+- Tushar Thakur
+- Nandini
+
+**PGDM — Marketing**  
+**Fortune Institute of International Business (FIIB)**  
+**Academic Year: 2025–27**
